@@ -14,7 +14,7 @@ import static org.junit.Assert.assertEquals;
 
 /**
  * In acest test vom:
- * - accesa google
+ * - accesa google.
  * - refuza cookie-uri
  * - cauta pe google prin input box "Java"
  * - afisa in consola numarul de rezultate de pe pagina!
